@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraMove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InteractionVideo.cs">
     <Files>
-      <File FileName="Assets/Scripts/CameraMove.cs" Line="18" Column="38" />
+      <File FileName="Assets/Scripts/CameraMove.cs" Line="14" Column="36" />
+      <File FileName="Assets/Scripts/InteractionVideo.cs" Line="36" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
